@@ -77,3 +77,5 @@ git push valassi -u cudacpp_plugin
 # Merge the initial mg5amcnlo_cudacpp commit (with README.md) from origin/master onto this branch
 # The branch can now be merged onto origin/master: open a MR on github
 git merge origin/master --allow-unrelated-histories
+
+(The MR is https://github.com/mg5amcnlo/mg5amcnlo_cudacpp/pull/1 and was eventually merged)
